@@ -9,7 +9,6 @@
     Debugging & Problem Solving
 
 
-    [![kiarashmankouei Nuxter profile](https://nuxters.nuxt.com/card/kiarashmankouei/og.png)](https://nuxters.nuxt.com/kiarashmankouei)
 💻 What I’m Working On:
 
     Building scalable, high-performance web applications with Nuxt.js.
@@ -26,6 +25,8 @@
 🌱 Fun Fact:
 
     Debugging isn’t just part of my job; it’s something I genuinely enjoy!
+
+[![kiarashmankouei Nuxter profile](https://nuxters.nuxt.com/card/kiarashmankouei/og.png)](https://nuxters.nuxt.com/kiarashmankouei)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiarashmankouei) 

@@ -8,6 +8,8 @@
     HTML5/CSS3
     Debugging & Problem Solving
 
+
+    [![kiarashmankouei Nuxter profile](https://nuxters.nuxt.com/card/kiarashmankouei/og.png)](https://nuxters.nuxt.com/kiarashmankouei)
 💻 What I’m Working On:
 
     Building scalable, high-performance web applications with Nuxt.js.
@@ -17,7 +19,7 @@
 
     Exploring advanced Nuxt.js features and performance optimization.
 
-🛠️ Looking to Collaborate On:
+🛠️ Looking to Collaborate On: 
 
     Projects that challenge my problem-solving skills or involve cutting-edge front-end technologies.
 
